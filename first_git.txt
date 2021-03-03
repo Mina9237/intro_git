@@ -1,2 +1,4 @@
 Gitの練習をしていきます
 aaa
+git add
+git commit
